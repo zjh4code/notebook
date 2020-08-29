@@ -25,3 +25,11 @@ this is picGo test file
 ![](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829232442.png)![image-20200829232442591](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829232442.png)
 
 ![image-20200829232504585](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829232504.png)
+
+
+
+
+
+add new content to the file====>hello
+
+![image-20200829233805137](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829234344.png)
