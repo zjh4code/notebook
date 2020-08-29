@@ -38,6 +38,12 @@ add new content to the file====>hello
 
 
 
+
 or ,why not
 
 ![image-20200829234934749](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829234934.png)
+=======
+add new file again
+
+![image-20200829234855792](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829234855.png)
+
