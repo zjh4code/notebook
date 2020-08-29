@@ -33,3 +33,11 @@ this is picGo test file
 add new content to the file====>hello
 
 ![image-20200829233805137](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829234344.png)
+
+
+
+
+
+add new file again
+
+![image-20200829234855792](https://cdn.jsdelivr.net/gh/zjh4code/pictureBed/notebook/img/20200829234855.png)
